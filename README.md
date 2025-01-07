@@ -77,33 +77,20 @@ Ensure you have the following installed:
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](assets/screenshots/splash_screen.png)
+<img width="187" alt="splash login" src="https://github.com/user-attachments/assets/76503015-ca19-4ef6-86a6-8bbafb05be77" />
+
+
+### Home Screen
+
+<img width="177" alt="home" src="https://github.com/user-attachments/assets/3b55d5d7-6030-49ad-9015-44cacc84e15d" />
 
 ### Login Screen
-![Login Screen](assets/screenshots/login_screen.png)
+<img width="172" alt="logins" src="https://github.com/user-attachments/assets/3f12f87a-bfd8-4f09-bf46-a49fd21d57cb" />
+
 
 ### Signup Screen
-![Signup Screen](assets/screenshots/signup_screen.png)
 
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-1. Fork the repository
-2. Create a feature branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add some feature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request
+<img width="177" alt="signup" src="https://github.com/user-attachments/assets/3510e4b3-a1d8-4f30-aaf5-0063c15114d5" />
 
 ---
 
